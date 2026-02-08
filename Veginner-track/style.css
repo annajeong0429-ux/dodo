@@ -1,0 +1,18 @@
+/* 1. 박스 모델 */
+.box {
+    padding: 10px;
+    border: 3px solid;
+    color: blue;
+    margin: 20px;
+}
+/* 2. h1 기본 색상 */
+h1 {
+    color: green;
+}
+/* 3. 클래스 highlight -> 빨간색 */
+.highlight {color: red;}
+/* 4. id special -> 노란색 */
+#special {color: yellow;}
+/* 5. content 크기 */
+.content {
+    width: 50%; font-size: 1.5em;}
